@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MinaShehata
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Swift UI
+- 🌱 Swift UI, Combine, ...
 - 📫 How to reach me on linkedin https://linkedin.com/in/mina-shehata-143461125
 
 <!---
