@@ -17,7 +17,7 @@ that fit well with their backends.
 
 **🛠 Tech stack**
 `Swift` · `SwiftUI` · `UIKit` · `Combine` · `Objective-C` · `React Native` ·
-`OpenCV` · `PHP` · `Laravel` · `CI/CD (fastlane, CircleCI)`
+`OpenCV` · `PHP` · `Laravel` · `CI/CD (fastlane, CircleCI)` · `BLE (CoreBluetooth)` · `SQL`
 <!---
 MinaShehata/MinaShehata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
